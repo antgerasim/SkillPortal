@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DonDataSet xmlns="http://tempuri.org/DonDataSet.xsd">
+  <Customer>
+    <CustomerId>1</CustomerId>
+    <Firstname>John</Firstname>
+    <Lastname>Doe</Lastname>
+  </Customer>
+
+  <Customer>
+    <CustomerId>2</CustomerId>
+    <Firstname>Mike</Firstname>
+    <Lastname>Mice</Lastname>
+  </Customer>
+
+  <Customer>
+    <CustomerId>3</CustomerId>
+    <Firstname>Sarah</Firstname>
+    <Lastname>Conner</Lastname>
+  </Customer>
+
+</DonDataSet>
